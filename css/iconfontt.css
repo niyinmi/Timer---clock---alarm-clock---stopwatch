@@ -1,0 +1,17 @@
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: 'iconfont';  /* Project id 3995082 */
+  src: 
+       url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAKYAAsAAAAABmAAAAJMAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACCcApYfQE2AiQDCAsGAAQgBYRnBzQbvQXILrBt2BMBiU3DCNwvXSxHAIyh5ATP349+zn13I4IyedcWKzSKViBTdAE/eVILvKtpW+iK8a92fNIdtataUvaSfjebpVokxuHeOFz3OCQYRdHWl4tvU1dbX/P5v3f8ly/gCyJ/0GrTnvQHtemBBZh+0Oa2ogg7HQ8s8gyWV341+yaH4RGBWnNmDS6vbu/BxHkkLfQMc8aD3BnnRRbBuM7LMm1VC5Xoziw+jJAe0xfe4/fHfwtRTVJRcDwbZyspvPz2unOKi/ICFF9dLNdD70uoQIEpIBM7/fU1Q6JNGlIbHzZAO7PgV68sw5g4dFj8dY69HvRT5ZlUX3tUewI5newFpid9g9TQcPykF/BUl79ve8qsWPb2mcdv22cqL1v2Mx046/sdmAco71K/eIABBJ+t7jctrq7L4OfRxGGcLe8yYElQvct48H+MM5CYTYGU21SdTHonVRNq3RIlJ93qZ2qg7T7aoVrb3SSr9OUoVBugMjeBCnUWUKnaEmpNWtlfp40xJHINRjwShGZ9JI2+oNDslcrcNyp0+kOlZv+otRcNp9UZieMlpkgoxfgei0S3yrMk9rtD2XUdcVPlgLgraAl9x6u21qglnmNNd5MFIgoV6wZX5X1U1xoN65IScXIRM+m6qu0lTqIbWMJIRJAUit1DhYTWUiFZyp+3g2Su1SIMUgd11imof+RzeAC1prfQwIM807mRCQihIIVpDbSqp5FaTUOmfVqJJIQjn1A1JrkuSaG6s73Z/D15BCeYwvUWag/tJtK5lwvvAAAAAA==') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3995082_j19n40g3vul.woff?t=1681029591807') format('woff'),
+       url('//at.alicdn.com/t/c/font_3995082_j19n40g3vul.ttf?t=1681029591807') format('truetype');
+}
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  
